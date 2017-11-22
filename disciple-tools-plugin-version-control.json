@@ -5,7 +5,7 @@
 
   "homepage": "https://disciple.tools/",
   "requires": "4.5",
-  "tested": "4.8",
+  "tested": "4.9",
   "last_updated": "2017-11-22 6:17:00",
   "upgrade_notice": "This patch includes a fix to the permissions for the dt-admin role which allows it to delete groups and contacts in the admin area.",
 
