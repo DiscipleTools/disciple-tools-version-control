@@ -2,12 +2,19 @@
 This repo hosts the public version control files necessary for triggering the remote updating of Disciple Tools.
 
 ## Steps for making a new release:
-1. Update version number in `style.css`.
-1. Update `version-updater.json`. (Update in two places)
-1. Update `config-required-plugins.php`. 
-1. Commit to GitHub.
-1. Download master .zip from Github, rename .zip as `disciple-tools-theme.zip`.
-1. Create a new release in GitHub with the new version number and attach `disciple-tools-theme.zip` to release.
+1. Update version number in `style.css` in the [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme).
+1. Commit changes to GitHub.
+1. Create a new release in GitHub with the new version number, release description.
+1. Update the release notes page found in this repo inside `docs/index.html`. Find the "New Release Block" section of the webpage and copy and paste a "New Release Block" section of code at the top of the list. Then add appropriate release notes.
+1. Download master .zip from Github repo, rename .zip as `disciple-tools-theme.zip`, and attach `disciple-tools-theme.zip` to the newly created release.
+1. Final Step (must be last), update `disciple-tools-theme-version-control.json`. (Update in two places)
+```
+{
+  "version": "{UPDATE HERE}",
+  "details_url": "https://discipletools.github.io/disciple-tools-version-control/",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-theme/releases/download/{UPDATE HERE}/disciple-tools-theme.zip"
+}
+```
 
 ## Example of new release block for the release notes page:
 ```
