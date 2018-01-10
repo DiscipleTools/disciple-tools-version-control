@@ -7,7 +7,7 @@ This repo hosts the public version control files necessary for triggering the re
 1. Create a new release in [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) GitHub with the new version number and release description. The description must have a description section, a 'version required' line, and 'version tested up to' line. ([See  example](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/README.md#example-of-a-github-release-description))
 1. Update the release notes page found in this repo inside [`docs/index.html`](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/docs/index.html). Find the "New Release Block" section inside the HTML and copy and paste a "New Release Block" section of code at the top of the existing list. Then add appropriate release notes. ([see example](https://github.com/DiscipleTools/disciple-tools-version-control#example-of-new-release-block-for-the-release-notes-indexhtml-page))
 1. Download master .zip from [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) Github repo, rename .zip to `disciple-tools-theme.zip`, and attach this zip file to the newly created version release.
-1. Final Step (must be last), update `disciple-tools-theme-version-control.json`. This .json file needs updated in two places. ([see example]())
+1. Final Step (must be last), update `disciple-tools-theme-version-control.json`. This .json file needs updated in two places. ([see example](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/README.md#example-of-updating-the-disciple-tools-theme-version-controljson))
 
 
 ## Example of a Github release description:
@@ -36,7 +36,8 @@ tested:  4.9.1
 	<!-- End New Release Block -->
 ```
 
-## Example of updating the `disciple-tools-theme-version-control.json`
+
+## Example of updating the disciple-tools-theme-version-control.json
 ```
 {
   "version": "{UPDATE HERE}",
@@ -44,6 +45,7 @@ tested:  4.9.1
   "download_url": "https://github.com/DiscipleTools/disciple-tools-theme/releases/download/{UPDATE HERE}/disciple-tools-theme.zip"
 }
 ```
+
 
 ## Mechanics of the updating system
 If a theme is hosted in the Wordpress directory, it has native access to the updating system inside the Wordpress software. But if the theme is not hosted inside the directory, and is therefore remotely hosted, then an additional system must be used to trigger and deliver updates to the native updating system inside the Wordpress software. This is what is required for Disciple Tools, because the requirements for hosting inside the Wordpress Directory to severly limit the implementation of the Disciple Tools system. (For example, not using custom tables for which Disciple Tools requires 6.)
