@@ -6,7 +6,7 @@ Github allows for raw hosting of .json files through its [RAW file view](https:/
 
 Steps to updating Theme:
 1. Update version number in `style.css`.
-1. Update `version-updater.json`. (Update in three places)
+1. Update `version-updater.json`. (Update in two places)
 1. Update `config-required-plugins.php`. 
 1. Commit to GitHub.
 1. Download master .zip from Github, rename .zip as `disciple-tools-theme.zip`.
