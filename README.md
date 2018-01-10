@@ -3,13 +3,6 @@ Hosts the version control files for the remote updating of Disciple Tools. This 
 
 Github allows for raw hosting of .json files through its [RAW file view](https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-plugin-version-control.json). 
 
-Steps to updating Plugin:
-1. Update version number in `disciple-tools.php`.
-1. Update `version-updater.json`.
-1. Commit to GitHub.
-1. Download master .zip from Github, rename .zip as `disciple-tools.zip`.
-1. Create a new release in GitHub with the new version number and attach `disciple-tools.zip` to release.
-
 
 Steps to updating Theme:
 1. Update version number in `style.css`.
