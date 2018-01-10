@@ -17,7 +17,7 @@ Theme URI: http://disciple.tools
 Description: Disciple Tools is a coalition management system for disciple making movements.
 Author URI: https://github.com/DiscipleTools
 GitHub Plugin URI: https://github.com/DiscipleTools/disciple-tools
-Version: {UPDATE HERE]
+Version: { UPDATE HERE }
 Requires at least: 4.7.0
 License: GPL-2.0 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -55,9 +55,9 @@ tested:  4.9.1
 ## Example of updating the disciple-tools-theme-version-control.json:
 ```
 {
-  "version": "{UPDATE HERE}",
+  "version": "{ UPDATE HERE }",
   "details_url": "https://discipletools.github.io/disciple-tools-version-control/",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-theme/releases/download/{UPDATE HERE}/disciple-tools-theme.zip"
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-theme/releases/download/{ UPDATE HERE }/disciple-tools-theme.zip"
 }
 ```
 
