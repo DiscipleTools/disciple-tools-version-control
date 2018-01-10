@@ -9,6 +9,21 @@ This repo hosts the public version control files necessary for triggering the re
 1. Download master .zip from [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) Github repo, rename .zip to `disciple-tools-theme.zip`, and attach this zip file to the newly created version release.
 1. Final Step (must be last), update `disciple-tools-theme-version-control.json`. This .json file needs updated in two places. ([see example](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/README.md#example-of-updating-the-disciple-tools-theme-version-controljson))
 
+## Example of the style.css update:
+```
+/******************************************************************
+Theme Name: Disciple Tools
+Theme URI: http://disciple.tools
+Description: Disciple Tools is a coalition management system for disciple making movements.
+Author URI: https://github.com/DiscipleTools
+GitHub Plugin URI: https://github.com/DiscipleTools/disciple-tools
+Version: {UPDATE HERE]
+Requires at least: 4.7.0
+License: GPL-2.0 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: Sass
+******************************************************************/
+```
 
 ## Example of a Github release description:
 ```
@@ -37,7 +52,7 @@ tested:  4.9.1
 ```
 
 
-## Example of updating the disciple-tools-theme-version-control.json
+## Example of updating the disciple-tools-theme-version-control.json:
 ```
 {
   "version": "{UPDATE HERE}",
@@ -47,7 +62,7 @@ tested:  4.9.1
 ```
 
 
-## Mechanics of the updating system
+## Mechanics of the updating system:
 If a theme is hosted in the Wordpress directory, it has native access to the updating system inside the Wordpress software. But if the theme is not hosted inside the directory, and is therefore remotely hosted, then an additional system must be used to trigger and deliver updates to the native updating system inside the Wordpress software. This is what is required for Disciple Tools, because the requirements for hosting inside the Wordpress Directory to severly limit the implementation of the Disciple Tools system. (For example, not using custom tables for which Disciple Tools requires 6.)
 
 The system for managing the remote update in Disciple Tools uses the library `plugin-update-checker`, which is found inside `disciple-tools-theme/dt-core/libraries/`.
