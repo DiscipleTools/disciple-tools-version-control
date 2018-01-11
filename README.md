@@ -3,7 +3,8 @@ This repo hosts the public version control files necessary for triggering the re
 
 
 ## Steps for making a new release:
-1. Update version number in `style.css` in the [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) and commit changes to Github.
+
+1. Update version number in `style.css` and `functions.php` in the [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) and commit changes to Github.
 1. Create a new release in [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme/realease) GitHub with the new version number and release description. The description must have a description section, a 'version required' line, and 'version tested up to' line. ([See  example](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/README.md#example-of-a-github-release-description))
 1. Update the release notes page found in this repo inside [`docs/index.html`](https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/docs/index.html). Find the "New Release Block" section inside the HTML and copy and paste a "New Release Block" section of code at the top of the existing list. Then add appropriate release notes. ([see example](https://github.com/DiscipleTools/disciple-tools-version-control#example-of-new-release-block-for-the-release-notes-indexhtml-page))
 1. Download master [.zip](https://github.com/DiscipleTools/disciple-tools-theme/archive/master.zip) from [Disciple Tools Theme](https://github.com/DiscipleTools/disciple-tools-theme) Github repo, rename .zip to `disciple-tools-theme.zip`, and attach this zip file to the newly created version release.
