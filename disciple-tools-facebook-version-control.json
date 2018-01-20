@@ -4,7 +4,7 @@
   "download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.1.0/disciple-tools-facebook.zip",
 
   "homepage": "https://disciple.tools/",
-  "requires": "4.5",
+  "requires": "4.7",
   "tested": "4.8",
   "last_updated": "2017-10-24 16:17:00",
   "upgrade_notice": "Here's why you should upgrade...",
@@ -20,13 +20,13 @@
   },
 
   "banners": {
-    "low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
-    "high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
+    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
   },
 
   "rating": 90,
-  "num_ratings": 123,
+  "num_ratings": 10,
 
-  "downloaded": 1234,
-  "active_installs": 12345
+  "downloaded": 10,
+  "active_installs": 100
 }
