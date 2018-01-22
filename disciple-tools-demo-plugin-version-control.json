@@ -1,7 +1,7 @@
 {
   "name": "Disciple Tools Demo Content",
   "version": "0.1.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.1.0/disciple-tools-demo-content.zip",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-plugin/releases/download/0.1.0/disciple-tools-demo-plugin.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
