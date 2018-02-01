@@ -1,11 +1,11 @@
 {
-  "name": "Disciple Tools Webform Integration",
-  "version": "0.1.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/0.1.1/disciple-tools-webform.zip",
+  "name": "Disciple Tools Webform",
+  "version": "0.1.2",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/0.1.2/disciple-tools-webform.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.8",
+  "tested": "4.9.2",
   "last_updated": "2017-10-24 16:17:00",
   "upgrade_notice": "Here's why you should upgrade...",
 
