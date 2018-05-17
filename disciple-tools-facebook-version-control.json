@@ -5,8 +5,8 @@
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.8",
-  "last_updated": "2017-10-24 16:17:00",
+  "tested": "4.9.5",
+  "last_updated": "2018-05-17",
   "upgrade_notice": "Here's why you should upgrade...",
 
   "author": "Disciple Tools",
