@@ -1,13 +1,13 @@
 {
 	"name": "Disciple Tools Facebook Integration",
-	"version": "0.1.0",
-	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.1.0/disciple-tools-facebook.zip",
+	"version": "0.1.1",
+	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.1.1/disciple-tools-facebook.zip",
 
 	"homepage": "https://disciple.tools/",
 	"requires": "4.7",
-	"tested": "4.9.5",
+	"tested": "4.9.6",
 	"last_updated": "2018-05-17",
-	"upgrade_notice": "Here's why you should upgrade...",
+	"upgrade_notice": "Fix updating the right contact",
 
 	"author": "Disciple Tools",
 	"author_homepage": "https://disciple.tools",
