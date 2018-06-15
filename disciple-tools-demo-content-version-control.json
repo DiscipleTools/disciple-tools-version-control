@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - Demo Content",
-  "version": "0.1.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.1.1/disciple-tools-demo-content.zip",
+  "version": "0.2.0",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.2.0/disciple-tools-demo-content.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.9.4",
-  "last_updated": "2017-10-24 16:17:00",
-  "upgrade_notice": "Save addresses correctly",
+  "tested": "4.9.6",
+  "last_updated": "2018-06-15 10:17:00",
+  "upgrade_notice": "Better contact and group creation",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
