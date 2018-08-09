@@ -1,22 +1,22 @@
 {
   "name": "Disciple Tools - Demo Content",
-  "version": "0.2.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.2.0/disciple-tools-demo-content.zip",
+  "version": "0.3.1",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.3.1/disciple-tools-demo-content.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.9.6",
-  "last_updated": "2018-06-15 10:17:00",
+  "tested": "4.9.8",
+  "last_updated": "2018-08-8 10:17:00",
   "upgrade_notice": "Better contact and group creation",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
 
   "sections": {
-    "description": "Disciple Tools Demo Content Plugin extends the Disciple Tools system for rapid content addition for training purposes.",
+    "description": "Disciple Tools - Demo Content Plugin extends the Disciple Tools system for rapid content addition for training purposes.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "This is the public release version of the plugin.",
-    "custom_section": "This is a custom section labeled 'Custom Section'."
+    "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
+    "custom_section": ""
   },
 
   "banners": {
