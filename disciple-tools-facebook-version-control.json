@@ -7,7 +7,7 @@
 	"requires": "4.7",
 	"tested": "4.9.8",
 	"last_updated": "2018-09-21",
-	"upgrade_notice": "Move from webhooks to cron strategy",
+	"upgrade_notice": "BREAKING CHANGES!!!!!! If you are currently using v0.1.2, upgrading this plugin will stop the integration until you configure the cron job. Instructions will be on the extensions settings page.",
 
 	"author": "Disciple Tools",
 	"author_homepage": "https://disciple.tools",
@@ -15,7 +15,12 @@
 	"sections": {
 		"description": "Disciple Tools Facebook Integration Plugin extends the Disciple Tools system with Facebook integration.",
 		"installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-		"changelog": "This is the public release version of the plugin.",
+		"changelog": "Switch from webhooks to using cron jobs
+The old webhook strategy had several problems duplicated webhooks would run in parallel and some webhooks would never be received.
+The new strategy relies on a 5min cron job to pull any new messages.
+Save facebook conversations as comments in the 'facebook' tab on the contact.
+Select the user to assign new contacts to for each page
+first time running the integration will import all conversation into D.T ",
 		"custom_section": "This is a custom section labeled 'Custom Section'."
 	},
 
