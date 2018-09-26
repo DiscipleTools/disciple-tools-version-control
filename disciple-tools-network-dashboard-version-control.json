@@ -1,7 +1,7 @@
 {
-  "name": "Disciple Tools - Saturation Mapping",
+  "name": "Disciple Tools - Network Dashboard",
   "version": "0.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.1/disciple-tools-saturation-mapping.zip",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/releases/download/0.1/disciple-tools-network-dashboard.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
@@ -13,7 +13,7 @@
   "author_homepage": "https://disciple.tools",
 
   "sections": {
-    "description": "Disciple Tools - Saturation Mapping extends the Disciple Tools system for rapid content addition for training purposes.",
+    "description": "Disciple Tools - Network Dashboard.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
     "custom_section": ""
