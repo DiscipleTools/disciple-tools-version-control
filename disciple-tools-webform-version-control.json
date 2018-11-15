@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - Webform",
-  "version": "0.1.4",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/0.1.4/disciple-tools-webform.zip",
+  "version": "0.1.5",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/0.1.5/disciple-tools-webform.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.9.4",
-  "last_updated": "2018-02-05 00:00:00",
-  "upgrade_notice": "Here's why you should upgrade...",
+  "tested": "4.9.8",
+  "last_updated": "2018-11-15 00:00:00",
+  "upgrade_notice": "Bug fixes",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
