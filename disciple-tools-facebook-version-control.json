@@ -1,12 +1,12 @@
 {
 	"name": "Disciple Tools Facebook Integration",
-	"version": "0.2.0",
-	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.0/disciple-tools-facebook.zip",
+	"version": "0.2.1",
+	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.1/disciple-tools-facebook.zip",
 
 	"homepage": "https://disciple.tools/",
 	"requires": "4.7",
 	"tested": "4.9.8",
-	"last_updated": "2018-09-21",
+	"last_updated": "2018-10-15",
 	"upgrade_notice": "BREAKING CHANGES!!!!!! If you are currently using v0.1.2, upgrading this plugin will stop the integration until you configure the cron job. Instructions will be on the extensions settings page.",
 
 	"author": "Disciple Tools",
