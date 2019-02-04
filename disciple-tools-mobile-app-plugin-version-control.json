@@ -1,0 +1,32 @@
+{
+  "name": "Disciple Tools - Mobile App Extension",
+  "version": "0.1",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/releases/download/0.1/disciple-tools-mobile-app-plugin.zip",
+
+  "homepage": "https://disciple.tools/",
+  "requires": "4.7",
+  "tested": "5.3",
+  "last_updated": "2019-02-4 00:00:00",
+  "upgrade_notice": "Saturation mapping",
+
+  "author": "Disciple Tools",
+  "author_homepage": "https://disciple.tools",
+
+  "sections": {
+    "description": "Disciple Tools - Mobile App Extension",
+    "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
+    "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
+    "custom_section": ""
+  },
+
+  "banners": {
+    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
+    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
+  },
+
+  "rating": 90,
+  "num_ratings": 10,
+
+  "downloaded": 10,
+  "active_installs": 100
+}
