@@ -1,12 +1,12 @@
 {
   "name": "Disciple Tools - Advanced Metrics",
-  "version": "0.1",
+  "version": "0.2",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.1/disciple-tools-advanced-metrics.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.9.8",
-  "last_updated": "2018-08-29 10:17:00",
+  "tested": "5.3",
+  "last_updated": "2019-03-28 10:17:00",
   "upgrade_notice": "Advanced Metrics",
 
   "author": "Disciple Tools",
