@@ -5,8 +5,8 @@
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "5.1",
-  "last_updated": "2018-11-15 00:00:00",
+  "tested": "5.3",
+  "last_updated": "2019-03-15 00:00:00",
   "upgrade_notice": "Added modifiable labels",
 
   "author": "Disciple Tools",
