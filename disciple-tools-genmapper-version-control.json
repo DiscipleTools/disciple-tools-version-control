@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - GenMapper",
-  "version": "0.1.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/releases/download/0.1.0/disciple-tools-genmapper.zip",
+  "version": "0.1.1",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/releases/download/0.1.1/disciple-tools-genmapper.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "4.9.4",
-  "last_updated": "2017-10-24 16:17:00",
-  "upgrade_notice": "Here's why you should upgrade...",
+  "tested": "5.2.0",
+  "last_updated": "2019-06-03",
+  "upgrade_notice": "Generations",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
