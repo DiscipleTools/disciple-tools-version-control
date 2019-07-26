@@ -1,12 +1,12 @@
 {
 	"name": "Disciple Tools Facebook Integration",
-	"version": "0.2.5",
-	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.5/disciple-tools-facebook.zip",
+	"version": "0.2.6",
+	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.6/disciple-tools-facebook.zip",
 
 	"homepage": "https://disciple.tools/",
 	"requires": "4.7",
 	"tested": "5.2.2",
-	"last_updated": "2019-06-26",
+	"last_updated": "2019-07-26",
 	"upgrade_notice": "Facebook Integration Improved.",
 
 	"author": "Disciple Tools",
