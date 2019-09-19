@@ -1,7 +1,7 @@
 {
   "name": "Disciple Tools - Webform",
-  "version": "2.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/2.0/disciple-tools-webform.zip",
+  "version": "2.2",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/2.2/disciple-tools-webform.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
@@ -15,7 +15,7 @@
   "sections": {
     "description": "Disciple Tools Webform extends the Disciple Tools system with a webform leads collection.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. <br><br>Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "This a major upgrade for this plugin.",
+    "changelog": "Bugfix on forms page.",
     "custom_section": "Happy to announce v.2.0 as a major framework upgrade. Adds a significant extra fields management tool that allows new field types: text, telephone, email, map*, checkbox, dropdown, radio buttons), as well as design elements (section header, section description, horizontal line, and spacer). All new field elements allow for ordering, being required, and being linked to Disciple Tools fields. Connecting form inputs directly to standard and custom fields in Disciple Tools. Mapbox and Location Grid mapping section can be added to allow a user to click and select their location. NOTE: Also introduced is a migration engine that should convert most current forms. But all forms should be checked and potentially updated after upgrade."
   },
 
