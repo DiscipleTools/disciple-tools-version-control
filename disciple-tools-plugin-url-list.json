@@ -1,28 +1,34 @@
 {
   "plugin urls": [
     {
-      "description": "Disciple Tools Genmapper extends the Disciple Tools system with visual generation mapping for groups and baptisms.",
+      "description": "Disciple Tools Genmapper extends the Disciple.Tools system with visual generation mapping for groups and baptisms.",
       "folder_name": "disciple-tools-genmapper",
-      "name": "Disciple Tools - Genmapper",
+      "name": "Disciple.Tools - Genmapper",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-genmapper-version-control.json"
     },
     {
-      "description": "Disciple Tools Facebook Integration Plugin extends the Disciple Tools system with Facebook integration.",
+      "description": "Disciple.Tools Facebook Integration Plugin extends the Disciple.Tools system with Facebook integration.",
       "folder_name": "disciple-tools-facebook",
-      "name": "Disciple Tools - Facebook Integration",
+      "name": "Disciple.Tools - Facebook Integration",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-facebook-version-control.json"
     },
     {
-      "description": "Disciple Tools Webform extends the Disciple Tools system with a webform leads collection.",
+      "description": "Disciple.Tools Webform extends the Disciple.Tools system with a webform leads collection.",
       "folder_name": "disciple-tools-webform",
-      "name": "Disciple Tools - Webform",
+      "name": "Disciple.Tools - Webform",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-webform-version-control.json"
     },
     {
-      "description": "Disciple Tools Demo Content Plugin extends the Disciple Tools system for rapid content addition for training purposes.",
+      "description": "Disciple.Tools Demo Content Plugin extends the Disciple.Tools system for rapid content addition for training purposes.",
       "folder_name": "disciple-tools-demo-content",
-      "name": "Disciple Tools - Demo Content",
+      "name": "Disciple.Tools - Demo Content",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-demo-content-version-control.json"
+    },
+    {
+      "description": "Disciple.Tools Mobile App Extension lets you use the Disciple.Tools intancs with the mobile app",
+      "folder_name": "disciple-tools-mobile-app-plugin",
+      "name": "Disciple.Tools - Mobile App Extension",
+      "url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.0/disciple-tools-mobile-app-plugin.zip"
     }
   ]
 }
