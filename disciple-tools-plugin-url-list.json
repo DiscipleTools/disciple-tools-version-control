@@ -28,7 +28,7 @@
       "description": "Disciple.Tools Mobile App Extension lets you use the Disciple.Tools intancs with the mobile app",
       "folder_name": "disciple-tools-mobile-app-plugin",
       "name": "Disciple.Tools - Mobile App Extension",
-      "url": "https://github.com/DiscipleTools/disciple-tools-version-control/blob/master/disciple-tools-mobile-app-plugin-version-control.json"
+      "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-mobile-app-plugin-version-control.json"
     }
   ]
 }
