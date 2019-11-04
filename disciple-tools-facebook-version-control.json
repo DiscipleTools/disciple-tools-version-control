@@ -1,12 +1,12 @@
 {
 	"name": "Disciple Tools Facebook Integration",
-	"version": "0.2.6",
-	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.6/disciple-tools-facebook.zip",
+	"version": "0.2.7",
+	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.2.7/disciple-tools-facebook.zip",
 
 	"homepage": "https://disciple.tools/",
 	"requires": "4.7",
-	"tested": "5.2.2",
-	"last_updated": "2019-07-26",
+	"tested": "5.2.4",
+	"last_updated": "2019-11-04",
 	"upgrade_notice": "Facebook Integration Improved.",
 
 	"author": "Disciple Tools",
@@ -15,7 +15,7 @@
 	"sections": {
 		"description": "Disciple Tools Facebook Integration Plugin extends the Disciple Tools system with Facebook integration.",
 		"installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-		"changelog": "Add missing 'manage_pages' permission and better display errors",
+		"changelog": "",
 		"custom_section": "This is a custom section labeled 'Custom Section'."
 	},
 
