@@ -1,12 +1,12 @@
 {
   "name": "Disciple Tools - Demo Content",
-  "version": "0.4.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.4.1/disciple-tools-demo-content.zip",
+  "version": "0.4.2",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/0.4.2/disciple-tools-demo-content.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "5.2.0",
-  "last_updated": "2019-06-03",
+  "tested": "5.2.4",
+  "last_updated": "2019-11-06",
   "upgrade_notice": "Keep data in sync with theme changes",
 
   "author": "Disciple Tools",
@@ -15,7 +15,7 @@
   "sections": {
     "description": "Disciple Tools - Demo Content Plugin extends the Disciple Tools system for rapid content addition for training purposes.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "Upgrade locations to geonames",
+    "changelog": "Fix theme check",
     "custom_section": ""
   },
 
