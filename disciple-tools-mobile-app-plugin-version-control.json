@@ -1,12 +1,12 @@
 {
   "name": "Disciple Tools - Mobile App Extension",
-  "version": "v1.3",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.3/disciple-tools-mobile-app-plugin.zip",
+  "version": "v1.4",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.4/disciple-tools-mobile-app-plugin.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "5.2.4",
-  "last_updated": "2020-01-21 00:00:00",
+  "tested": "5.3.0",
+  "last_updated": "2020-03-10 00:00:00",
   "upgrade_notice": "Authorization fixes",
 
   "author": "Disciple.Tools",
