@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - Webform",
-  "version": "2.2",
+  "version": "2.3.1",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/2.2/disciple-tools-webform.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "5.3",
+  "tested": "5.4",
   "last_updated": "2019-03-15 00:00:00",
-  "upgrade_notice": "New form buider upgrade",
+  "upgrade_notice": "New form builder upgrade and mapbox upgrades",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
