@@ -1,19 +1,19 @@
 {
-  "name": "Disciple Tools - Mobile App Extension",
-  "version": "v1.6",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.6/disciple-tools-mobile-app-plugin.zip",
+  "name": "Disciple Tools - Training Extension",
+  "version": "1.0",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/1.0/disciple-tools-training.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
-  "tested": "5.3.0",
-  "last_updated": "2020-04-30 00:00:00",
-  "upgrade_notice": "Push notification token management",
+  "tested": "5.4",
+  "last_updated": "2020-04",
+  "upgrade_notice": "",
 
-  "author": "Disciple.Tools",
+  "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
 
   "sections": {
-    "description": "Disciple Tools - Mobile App Extension",
+    "description": "Disciple Tools - Training Extension.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "",
     "custom_section": ""
