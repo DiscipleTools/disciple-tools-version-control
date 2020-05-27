@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - Webform",
-  "version": "2.3.2",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/v2.3.2/disciple-tools-webform.zip",
+  "version": "3.0",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/3.0/disciple-tools-webform.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
   "tested": "5.4",
   "last_updated": "2019-03-15 00:00:00",
-  "upgrade_notice": "New form builder upgrade and mapbox upgrades",
+  "upgrade_notice": "Major upgrade and release",
 
   "author": "Disciple Tools",
   "author_homepage": "https://disciple.tools",
@@ -15,7 +15,7 @@
   "sections": {
     "description": "Disciple Tools Webform extends the Disciple Tools system with a webform leads collection.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. <br><br>Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "Patch and reviewed release",
+    "changelog": "This webform upgrade is a major upgrade to the webform framework and functionality. Although legacy forms should upgrade seamlessly, it is recommended that all forms created in previous versions are evaluated after upgrading to 3.0. Specifically, all integrations to Disciple Tools form fields, should be rebuilt with the new 3.0 supplied integration fields.\n\nNew Features\n\n    Simplified administrative area for remote and dt installations.\n    Easy connection and linking to Disciple Tools default and custom fields.\n    Geocoded location/address fields driven by Mapbox service.\n\n",
     "custom_section": ""
   },
 
