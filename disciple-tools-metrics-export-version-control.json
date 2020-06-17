@@ -1,7 +1,7 @@
 {
   "name": "Disciple Tools - Metrics Export",
-  "version": "0.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/0.1/disciple-tools-metrics-export.zip",
+  "version": "1.0",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/1.0/disciple-tools-metrics-export.zip",
 
   "homepage": "https://disciple.tools/",
   "requires": "4.7",
