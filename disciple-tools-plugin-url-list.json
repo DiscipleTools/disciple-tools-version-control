@@ -9,7 +9,7 @@
     {
       "description": "Disciple.Tools Facebook Integration Plugin extends the Disciple.Tools system with Facebook integration.",
       "folder_name": "disciple-tools-facebook",
-      "name": "Disciple.Tools - Facebook Integration",
+      "name": "Disciple.Tools - Facebook",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-facebook-version-control.json"
     },
     {
@@ -31,9 +31,9 @@
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-mobile-app-plugin-version-control.json"
     },
     {
-      "description": "Disciple.Tools Trainings Plugin is the tool you need to keep track of your tranings.",
+      "description": "Disciple.Tools Training plugin is the tool you need to keep track of your trainings.",
       "folder_name": "disciple-tools-training",
-      "name": "Disciple.Tools - Trainings Plugins",
+      "name": "Disciple.Tools - Training",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-training-version-control.json"
     }
   ]
