@@ -16,7 +16,6 @@
     "description": "Disciple Tools - Network Dashboard.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
-    "custom_section": ""
   },
 
   "banners": {
