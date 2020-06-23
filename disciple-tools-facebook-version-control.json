@@ -9,10 +9,11 @@
 		"changelog": "Fixed a number of minor bugs. \n Updated connection strategy to respond to Facebook changes. \n Add stability to api."
 	},
 	"last_updated": "2020-06-12",
-	
-	
 	"upgrade_notice": "Facebook Integration Improved.",
-	
+
+
+
+
 	"requires": "4.7",
 	"tested": "5.4.0",
 	"banners": {

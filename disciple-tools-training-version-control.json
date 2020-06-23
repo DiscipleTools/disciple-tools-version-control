@@ -6,7 +6,7 @@
   "sections": {
     "description": "Disciple Tools - Training.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "",
+    "changelog": ""
   },
   "last_updated": "2020-04",
   "upgrade_notice": "",

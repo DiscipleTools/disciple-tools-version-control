@@ -6,7 +6,7 @@
   "sections": {
     "description": "Disciple Tools Dashboard plugin adds network administration utilities to the multisite network admin area, helpful for managing Disciple Tools multisite installs..",
     "installation": "(Required) You must have a multisite with Disciple Tools as a theme installed.",
-    "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking.",
+    "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking."
   },
   "last_updated": "2020-06-23",
   "upgrade_notice": "Here's why you should upgrade...",

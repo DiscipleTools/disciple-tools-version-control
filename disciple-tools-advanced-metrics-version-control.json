@@ -6,8 +6,7 @@
   "sections": {
     "description": "Disciple Tools - Advanced Metrics plugin extends the Disciple Tools system.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
-    "custom_section": ""
+    "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support."
   },
   "last_updated": "2019-03-28",
   "upgrade_notice": "Advanced Metrics",

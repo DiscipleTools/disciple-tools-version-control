@@ -5,21 +5,14 @@
   "sections": {
     "description": "Disciple Tools - GenMapper add generation visualization to the Disciple Tools System.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": "This is the public release version of the plugin.",
-    "custom_section": "This is a custom section labeled 'Custom Section'."
+    "changelog": "This is the public release version of the plugin."
   },
 
   "last_updated": "2019-08-02",
   "upgrade_notice": "Generations",
 
-  "author": "Disciple Tools",
-  "author_homepage": "https://disciple.tools",
 
-  
-  
-  
-
- "requires": "4.7",
+  "requires": "4.7",
 	"tested": "5.4.2",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
