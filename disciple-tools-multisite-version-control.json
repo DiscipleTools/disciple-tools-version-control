@@ -1,7 +1,7 @@
 {
   "name": "Disciple Tools - Multisite",
   "version": "1.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-demo-content/releases/download/1.0/disciple-tools-multisite.zip",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-multisite/releases/download/1.0/disciple-tools-multisite.zip",
 
   "homepage": "https://github.com/DiscipleTools/disciple-tools-multisite",
   "requires": "4.7",
