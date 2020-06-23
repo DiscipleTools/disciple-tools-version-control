@@ -15,7 +15,7 @@
 	"sections": {
 		"description": "Disciple Tools Facebook Integration Plugin extends the Disciple Tools system with Facebook integration.",
 		"installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-		"changelog": ""
+		"changelog": "Fixed a number of minor bugs. \n Updated connection strategy to respond to Facebook changes. \n Add stability to api."
 	},
 
 	"banners": {
