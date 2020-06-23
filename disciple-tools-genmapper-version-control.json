@@ -2,16 +2,6 @@
   "name": "Disciple Tools - GenMapper",
   "version": "0.1.2",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/releases/download/0.1.2/disciple-tools-genmapper.zip",
-
-  "homepage": "https://disciple.tools/",
-  "requires": "4.7",
-  "tested": "5.2.0",
-  "last_updated": "2019-08-02",
-  "upgrade_notice": "Generations",
-
-  "author": "Disciple Tools",
-  "author_homepage": "https://disciple.tools",
-
   "sections": {
     "description": "Disciple Tools - GenMapper add generation visualization to the Disciple Tools System.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
@@ -19,14 +9,29 @@
     "custom_section": "This is a custom section labeled 'Custom Section'."
   },
 
-  "banners": {
-    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
-    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
-  },
+  "last_updated": "2019-08-02",
+  "upgrade_notice": "Generations",
 
-  "rating": 90,
-  "num_ratings": 10,
+  "author": "Disciple Tools",
+  "author_homepage": "https://disciple.tools",
 
-  "downloaded": 10,
-  "active_installs": 100
+  
+  
+  
+
+ "requires": "4.7",
+	"tested": "5.4.2",
+	"banners": {
+		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
+		"high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
+	},
+	
+	"author": "Disciple Tools",
+	"author_homepage": "https://disciple.tools",
+	
+	"homepage": "https://github.com/DiscipleTools/disciple-tools-genmapper",
+	"issues_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/issues",
+	"projects_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/projects",
+	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/wiki",
+	"license_url": "https://github.com/DiscipleTools/disciple-tools-genmapper/blob/master/LICENSE"
 }
