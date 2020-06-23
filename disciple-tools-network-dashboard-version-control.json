@@ -1,31 +1,32 @@
 {
   "name": "Disciple Tools - Network Dashboard",
+  
   "version": "0.1",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/releases/download/0.1/disciple-tools-network-dashboard.zip",
-
-  "homepage": "https://disciple.tools/",
-  "requires": "4.7",
-  "tested": "5.4",
-  "last_updated": "2020-06-23",
-  "upgrade_notice": "New mapping",
-
-  "author": "Disciple Tools",
-  "author_homepage": "https://disciple.tools",
-
   "sections": {
     "description": "Disciple Tools - Network Dashboard.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support.",
   },
+  "last_updated": "2020-06-23",
+  "upgrade_notice": "New mapping",
 
-  "banners": {
-    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
-    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
-  },
 
-  "rating": 90,
-  "num_ratings": 10,
+  
 
-  "downloaded": 10,
-  "active_installs": 100
+  "requires": "4.7",
+	"tested": "5.4.2",
+	"banners": {
+		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
+		"high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
+	},
+	
+	"author": "Disciple Tools",
+	"author_homepage": "https://disciple.tools",
+	
+	"homepage": "https://github.com/DiscipleTools/disciple-tools-network-dashboard",
+	"issues_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/issues",
+	"projects_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/projects",
+	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/wiki",
+	"license_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/blob/master/LICENSE"
 }
