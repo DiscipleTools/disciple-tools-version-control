@@ -2,6 +2,11 @@
 	"name": "Disciple Tools - Facebook",
 	"version": "0.3.0",
 	"download_url": "https://github.com/DiscipleTools/disciple-tools-facebook/releases/download/0.3.0/disciple-tools-facebook.zip",
+	
+	"issues_url": "https://github.com/DiscipleTools/disciple-tools-facebook/issues",
+	"projects_url": "https://github.com/DiscipleTools/disciple-tools-facebook/projects",
+	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-facebook/wiki",
+	"license_url": "https://github.com/DiscipleTools/disciple-tools-facebook/blob/master/LICENSE",
 
 	"homepage": "https://github.com/DiscipleTools/disciple-tools-facebook",
 	"requires": "4.7",
