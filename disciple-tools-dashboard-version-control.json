@@ -4,7 +4,7 @@
   "version": "1.0",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/releases/download/1.0/disciple-tools-dashboard.zip",
   "sections": {
-    "description": "Disciple Tools Dashboard plugin adds network administration utilities to the multisite network admin area, helpful for managing Disciple Tools multisite installs..",
+    "description": "Disciple Tools Dashboard plugin adds an opening dashboard to the Disciple Tools system showing new and update needed contacts.",
     "installation": "(Required) You must have a multisite with Disciple Tools as a theme installed.",
     "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking."
   },
