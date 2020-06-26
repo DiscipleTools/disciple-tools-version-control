@@ -11,10 +11,7 @@
   "last_updated": "2020-06-12",
   "upgrade_notice": "",
 
- 
-
-
- "requires": "4.7",
+ 	"requires": "4.7",
 	"tested": "5.4.2",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
