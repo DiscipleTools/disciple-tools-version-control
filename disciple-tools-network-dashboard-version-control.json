@@ -11,9 +11,6 @@
   "last_updated": "2020-06-23",
   "upgrade_notice": "New mapping",
 
-
-  
-
   "requires": "4.7",
 	"tested": "5.4.2",
 	"banners": {
@@ -27,7 +24,7 @@
 	"homepage": "https://github.com/DiscipleTools/disciple-tools-network-dashboard",
 	"issues_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/issues",
 	"projects_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/projects",
-	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/wiki",
+	"wiki_url": "",
 	"license_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/blob/master/LICENSE",
 	"readme_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/blob/master/README.md"
 }
