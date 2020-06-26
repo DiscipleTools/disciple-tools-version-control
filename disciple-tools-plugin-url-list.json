@@ -19,22 +19,22 @@
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-webform-version-control.json"
     },
     {
-      "description": "Disciple.Tools Demo Content Plugin extends the Disciple.Tools system for rapid content addition for training purposes.",
-      "folder_name": "disciple-tools-demo-content",
-      "name": "Disciple.Tools - Demo Content",
-      "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-demo-content-version-control.json"
-    },
-    {
       "description": "Disciple.Tools Mobile App Extension lets you use the Disciple.Tools intances with the mobile app",
       "folder_name": "disciple-tools-mobile-app-plugin",
       "name": "Disciple.Tools - Mobile App Extension",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-mobile-app-plugin-version-control.json"
     },
     {
-      "description": "Disciple.Tools Training plugin is the tool you need to keep track of your trainings.",
+      "description": "Keep track of trainings by connecting leaders, participants, generations of trainings, generations of groups from the training, time and locations.",
       "folder_name": "disciple-tools-training",
       "name": "Disciple.Tools - Training",
       "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-training-version-control.json"
+    },
+    {
+      "description": "Disciple.Tools Demo Content Plugin extends the Disciple.Tools system for rapid content addition for training purposes.",
+      "folder_name": "disciple-tools-demo-content",
+      "name": "Disciple.Tools - Demo Content",
+      "url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/disciple-tools-demo-content-version-control.json"
     }
   ]
 }
