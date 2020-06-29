@@ -5,14 +5,12 @@
   "download_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/releases/download/1.0/disciple-tools-dashboard.zip",
   "sections": {
     "description": "Disciple Tools Dashboard plugin adds an opening dashboard to the Disciple Tools system showing new and update needed contacts.",
-    "installation": "(Required) You must have a multisite with Disciple Tools as a theme installed.",
+    "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking."
   },
   "last_updated": "2020-06-23",
   "upgrade_notice": "Here's why you should upgrade...",
 
-	
-	
    "requires": "4.7",
    "tested": "5.4.2",
   "banners": {
@@ -27,5 +25,6 @@
   "issues_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/issues",
   "projects_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/projects",
   "wiki_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/wiki",
-  "license_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/blob/master/LICENSE"  
+  "license_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/blob/master/LICENSE",
+  "readme_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/blob/master/README.md"
 }

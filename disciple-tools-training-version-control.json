@@ -4,9 +4,9 @@
   "version": "1.1",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/1.1/disciple-tools-training.zip",
   "sections": {
-    "description": "Disciple Tools - Training.",
+    "description": "The Disciple Tools - Training plugin adds an entirely new section to the navigation allowing you to track trainings (i.e. limited time events) and allows you to connect contacts and groups to these trainings.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
-    "changelog": ""
+    "changelog": "Added new mapping elements. \n This is phase 1 or 2 in the implementation of better mapping."
   },
   "last_updated": "2020-04",
   "upgrade_notice": "",
@@ -14,7 +14,7 @@
 
   
 
- "requires": "4.7",
+ 	"requires": "4.7",
 	"tested": "5.4.2",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
@@ -27,6 +27,7 @@
 	"homepage": "https://github.com/DiscipleTools/disciple-tools-training",
 	"issues_url": "https://github.com/DiscipleTools/disciple-tools-training/issues",
 	"projects_url": "https://github.com/DiscipleTools/disciple-tools-training/projects",
-	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-training/wiki",
-	"license_url": "https://github.com/DiscipleTools/disciple-tools-training/blob/master/LICENSE"
+	"wiki_url": "",
+	"license_url": "https://github.com/DiscipleTools/disciple-tools-training/blob/master/LICENSE",
+	"readme_url": "https://github.com/DiscipleTools/disciple-tools-training/blob/master/README.md"
 }
