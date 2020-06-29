@@ -10,8 +10,6 @@
 
   "last_updated": "2019-08-02",
   "upgrade_notice": "Generations",
-
-
   "requires": "4.7",
 	"tested": "5.4.2",
 	"banners": {
