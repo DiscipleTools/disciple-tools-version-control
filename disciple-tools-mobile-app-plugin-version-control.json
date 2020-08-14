@@ -1,18 +1,18 @@
 {
   "name": "Disciple Tools - Mobile App Extension",
   
-  "version": "v1.7",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.7/disciple-tools-mobile-app-plugin.zip",
+  "version": "v1.8",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-mobile-app-plugin/releases/download/v1.8/disciple-tools-mobile-app-plugin.zip",
   "sections": {
     "description": "The Disciple Tools - Mobile App Extension works in conjunction with the Mobile App found in the App Stores. This plugin enables a Disciple tools system to receive connections from the mobile app.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": ""
   },
-  "last_updated": "2020-06-12",
+  "last_updated": "2020-08-14",
   "upgrade_notice": "",
 
  	"requires": "4.7",
-	"tested": "5.4.2",
+	"tested": "5.5",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
 		"high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
