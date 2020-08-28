@@ -1,14 +1,14 @@
 {
   "name": "Disciple Tools - Webform",
   
-  "version": "3.2",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/3.2/disciple-tools-webform.zip",
+  "version": "3.3",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/3.3/disciple-tools-webform.zip",
  "sections": {
     "description": "Disciple Tools Webform extends the Disciple Tools system with a webform leads collection.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. <br><br>Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "This webform upgrade is a major upgrade to the webform framework and functionality. Although legacy forms should upgrade seamlessly, it is recommended that all forms created in previous versions are evaluated after upgrading to 3.0. Specifically, all integrations to Disciple Tools form fields, should be rebuilt with the new 3.0 supplied integration fields.\n\nNew Features\n\n    Simplified administrative area for remote and dt installations.\n    Easy connection and linking to Disciple Tools default and custom fields.\n    Geocoded location/address fields driven by Mapbox service.\n\n"
   },
-  "last_updated": "2020-07-21",
+  "last_updated": "2020-08",
   "upgrade_notice": "Bug fixes",
 
 
@@ -26,7 +26,7 @@
 	"homepage": "https://github.com/DiscipleTools/disciple-tools-webform",
 	"issues_url": "https://github.com/DiscipleTools/disciple-tools-webform/issues",
 	"projects_url": "https://github.com/DiscipleTools/disciple-tools-webform/projects",
-	"wiki_url": "",
+	"wiki_url": "https://github.com/DiscipleTools/disciple-tools-webform/wiki",
 	"license_url": "https://github.com/DiscipleTools/disciple-tools-webform/blob/master/LICENSE",
 	"readme_url": "https://github.com/DiscipleTools/disciple-tools-webform/blob/master/README.md"
 }
