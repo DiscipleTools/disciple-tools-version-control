@@ -1,8 +1,8 @@
 {
   "name": "Disciple Tools - Webform",
   
-  "version": "3.3",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/download/3.3/disciple-tools-webform.zip",
+  "version": "3.4",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-webform/releases/latest/download/disciple-tools-webform.zip",
  "sections": {
     "description": "Disciple Tools Webform extends the Disciple Tools system with a webform leads collection.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. <br><br>Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
