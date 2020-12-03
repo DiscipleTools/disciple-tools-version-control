@@ -10,11 +10,8 @@
   },
   "last_updated": "2020-11-24",
   "upgrade_notice": "Here's why you should upgrade...",
-
-	
-	
-   "requires": "4.7",
-   "tested": "5.5",
+  "requires": "4.7",
+  "tested": "5.5",
   "banners": {
     "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
     "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
