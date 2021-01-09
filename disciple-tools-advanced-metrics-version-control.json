@@ -2,19 +2,18 @@
   "name": "Disciple Tools - Advanced Metrics",
   
   "version": "0.2",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-advanced-metrics-template/releases/download/0.2/disciple-tools-advanced-metrics.zip",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-advanced-metrics-template/releases/latest/download/disciple-tools-advanced-metrics-template.zip",
   "sections": {
     "description": "Disciple Tools - Advanced Metrics plugin extends the Disciple Tools system.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Fully rebuilt the user interface and added smoother ajax install and delete support."
   },
-  "last_updated": "2019-03-28",
+  "last_updated": "2021-01",
   "upgrade_notice": "Advanced Metrics",
 
 
-
   "requires": "4.7",
-	"tested": "5.4.2",
+	"tested": "5.6",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
 		"high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
