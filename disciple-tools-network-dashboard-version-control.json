@@ -2,7 +2,7 @@
   "name": "Disciple Tools - Network Dashboard",
   
   "version": "0.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-network-dashboard/releases/download/0.1/disciple-tools-network-dashboard.zip",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-metrics-export/releases/latest/download/disciple-tools-network-dashboard.zip",
   "sections": {
     "description": "The Network Dashboard plugin enables coalition or ministry to connect multiple Disciple Tools systems to a single network dashboard.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
@@ -12,7 +12,7 @@
   "upgrade_notice": "New mapping",
 
   "requires": "4.7",
-	"tested": "5.4.2",
+	"tested": "5.6",
 	"banners": {
 		"low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-772x250.jpg",
 		"high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-version-control/master/images/dt-placeholder-1544x500.jpg"
