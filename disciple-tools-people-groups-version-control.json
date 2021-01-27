@@ -8,7 +8,7 @@
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Initial release. MVP."
   },
-  "last_updated": "2018-1-24",
+  "last_updated": "2021-01",
   "upgrade_notice": "Here's why you should upgrade...",
 
   "requires": "4.7",

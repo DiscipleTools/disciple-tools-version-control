@@ -1,14 +1,14 @@
 {
   "name": "Disciple Tools - Multisite",
   
-  "version": "1.2",
+  "version": "1.4",
   "download_url": "https://github.com/DiscipleTools/disciple-tools-multisite/releases/latest/download/disciple-tools-multisite.zip",
   "sections": {
     "description": "Disciple Tools Multisite plugin adds network administration utilities to the multisite network admin area, helpful for managing Disciple Tools multisite installs.",
     "installation": "(Required) You must have a multisite with Disciple Tools as a theme installed and must be installed on a multisite server.",
     "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking."
   },
-  "last_updated": "2020-11-24",
+  "last_updated": "2021-01",
   "upgrade_notice": "Here's why you should upgrade...",
   "requires": "4.7",
   "tested": "5.5",

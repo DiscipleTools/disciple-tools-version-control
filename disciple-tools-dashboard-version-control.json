@@ -1,14 +1,14 @@
 {
   "name": "Disciple Tools - Dashboard",
   
-  "version": "0.1.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/releases/download/0.1.0/disciple-tools-dashboard.zip",
+  "version": "0.2.1",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-dashboard/releases/download/0.2.1/disciple-tools-dashboard.zip",
   "sections": {
     "description": "Disciple Tools Dashboard plugin adds an opening dashboard to the Disciple Tools system showing new and update needed contacts.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Upgraded to full plugin structure with updates system, translation, and code quality checking."
   },
-  "last_updated": "2020-06-23",
+  "last_updated": "2021-01-27",
   "upgrade_notice": "Here's why you should upgrade...",
 
    "requires": "4.7",
