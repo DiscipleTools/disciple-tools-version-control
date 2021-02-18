@@ -1,14 +1,14 @@
 {
   "name": "Disciple Tools - Training",
   
-  "version": "2.0",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/2.0/disciple-tools-training.zip",
+  "version": "2.1",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-training/releases/download/2.1/disciple-tools-training.zip",
   "sections": {
     "description": "The Disciple Tools - Training plugin adds an entirely new section to the navigation allowing you to track trainings (i.e. limited time events) and allows you to connect contacts and groups to these trainings.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Added new mapping elements. \n This is phase 1 or 2 in the implementation of better mapping."
   },
-  "last_updated": "2021-01",
+  "last_updated": "2021-02",
   "upgrade_notice": "",
 
 
