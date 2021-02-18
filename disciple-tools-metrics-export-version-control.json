@@ -1,13 +1,13 @@
 {
   "name": "Disciple Tools - Metrics Export",
-  "version": "1.5",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-metrics-export/releases/download/1.5/disciple-tools-metrics-export.zip",
+  "version": "1.6",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-metrics-export/releases/download/1.6/disciple-tools-metrics-export.zip",
   "sections": {
     "description": "Disciple Tools - Metrics Export",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Initialization of export plugin"
   },
-  "last_updated": "2021-01",
+  "last_updated": "2021-02",
   "upgrade_notice": "",
 
  "requires": "4.7",
