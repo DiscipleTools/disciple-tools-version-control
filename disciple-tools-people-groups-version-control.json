@@ -1,14 +1,14 @@
 {
   "name": "Disciple Tools - People Groups",
 
-  "version": "0.1",
-  "download_url": "https://github.com/DiscipleTools/disciple-tools-people-groups/releases/download/0.1/disciple-tools-people-groups.zip",
+  "version": "0.2",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-people-groups/releases/download/0.2/disciple-tools-people-groups.zip",
   "sections": {
     "description": "The Disciple Tools - People Groups plugin adds navigation and metrics to the people group tracking native to the core of the Disciple Tools system.",
     "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
     "changelog": "Initial release. MVP."
   },
-  "last_updated": "2021-01",
+  "last_updated": "2021-02",
   "upgrade_notice": "Here's why you should upgrade...",
 
   "requires": "4.7",
